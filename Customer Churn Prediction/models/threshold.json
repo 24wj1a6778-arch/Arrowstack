@@ -1,0 +1,10 @@
+{
+  "model": "logistic_regression",
+  "threshold": 0.62,
+  "val_business_value": 6119.999999999998,
+  "assumptions": {
+    "offer_cost": 20.0,
+    "save_value": 200.0,
+    "accept_rate": 0.3
+  }
+}
