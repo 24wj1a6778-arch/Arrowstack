@@ -1,0 +1,6 @@
+amount,hour,day_of_week,merchant_category,channel,is_international,distance_from_home_km,txn_count_24h,avg_amount_30d,card_age_days,account_age_days,is_new_merchant,device_changed,fraud_score,risk_band,decision
+-20.0,10,5,online_retail,pos,0,9.4,1,76.18,1884,2640,1,0,,n/a,invalid_input
+17.94,27,6,fuel,pos,0,2.6,2,44.44,1792,2661,0,0,,n/a,invalid_input
+33.13,6,0,,pos,0,,1,49.08,1365,2480,0,1,0.0352,ok,approve
+29.59,11,4,crypto_exchange,online,0,1.9,1,54.83,1180,2321,0,0,0.015,ok,approve
+39.25,20,1,entertainment,pos,0,0.6,0,34.66,1385,1393,0,0,0.0303,ok,approve

@@ -1,0 +1,11 @@
+{
+  "algorithm": "random_forest",
+  "strategy": "smote",
+  "threshold": 0.2753694778304938,
+  "val_pr_auc": 0.6734289242753413,
+  "val_cost": 3767.68,
+  "assumptions": {
+    "review_cost": 5.0,
+    "missed_fraud_cost": "transaction amount"
+  }
+}

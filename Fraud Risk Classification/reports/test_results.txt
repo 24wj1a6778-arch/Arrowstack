@@ -1,0 +1,32 @@
+test_clean_drops_id_and_keeps_binary_target (test_pipeline.TestData.test_clean_drops_id_and_keeps_binary_target) ... ok
+test_fraud_is_rare (test_pipeline.TestData.test_fraud_is_rare) ... ok
+test_generation_is_reproducible (test_pipeline.TestData.test_generation_is_reproducible) ... ok
+test_missing_values_kept_for_pipeline_to_impute (test_pipeline.TestData.test_missing_values_kept_for_pipeline_to_impute) ... ok
+test_schema_complete (test_pipeline.TestData.test_schema_complete) ... ok
+test_split_sizes_stratified (test_pipeline.TestData.test_split_sizes_stratified) ... ok
+test_validate_rejects_missing_column (test_pipeline.TestData.test_validate_rejects_missing_column) ... ok
+test_validate_rejects_negative_amount_and_bad_hour (test_pipeline.TestData.test_validate_rejects_negative_amount_and_bad_hour) ... ok
+test_add_features (test_pipeline.TestFeaturesAndModel.test_add_features) ... ok
+test_add_features_does_not_mutate_input (test_pipeline.TestFeaturesAndModel.test_add_features_does_not_mutate_input) ... ok
+test_local_explanation_finds_the_driver (test_pipeline.TestFeaturesAndModel.test_local_explanation_finds_the_driver) ... ok
+test_pipeline_with_each_strategy (test_pipeline.TestFeaturesAndModel.test_pipeline_with_each_strategy) ... ok
+test_unseen_category_does_not_crash (test_pipeline.TestFeaturesAndModel.test_unseen_category_does_not_crash) ... ok
+test_alert_budget_threshold (test_pipeline.TestMetrics.test_alert_budget_threshold) ... ok
+test_best_threshold_beats_alert_everything_and_nothing (test_pipeline.TestMetrics.test_best_threshold_beats_alert_everything_and_nothing) ... ok
+test_metrics_keys_and_counts (test_pipeline.TestMetrics.test_metrics_keys_and_counts) ... ok
+test_recall_at_precision (test_pipeline.TestMetrics.test_recall_at_precision) ... ok
+test_total_cost_formula (test_pipeline.TestMetrics.test_total_cost_formula) ... ok
+test_decision_and_band_always_agree (test_pipeline.TestPredictEdgeCases.test_decision_and_band_always_agree) ... ok
+test_invalid_rows_flagged_not_scored (test_pipeline.TestPredictEdgeCases.test_invalid_rows_flagged_not_scored) ... ok
+test_missing_column_gives_clear_error (test_pipeline.TestPredictEdgeCases.test_missing_column_gives_clear_error) ... ok
+test_missing_values_are_imputed (test_pipeline.TestPredictEdgeCases.test_missing_values_are_imputed) ... ok
+test_resampling_only_in_fit_never_in_predict (test_pipeline.TestResampling.test_resampling_only_in_fit_never_in_predict) ... ok
+test_smote_does_not_change_original_data (test_pipeline.TestResampling.test_smote_does_not_change_original_data) ... ok
+test_smote_reaches_ratio_and_stays_in_fraud_region (test_pipeline.TestResampling.test_smote_reaches_ratio_and_stays_in_fraud_region) ... ok
+test_undersample_ratio_and_keeps_all_positives (test_pipeline.TestResampling.test_undersample_ratio_and_keeps_all_positives) ... ok
+test_unknown_strategy_rejected (test_pipeline.TestResampling.test_unknown_strategy_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 27 tests in 0.635s
+
+OK

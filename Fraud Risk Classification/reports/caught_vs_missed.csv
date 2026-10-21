@@ -1,0 +1,10 @@
+,caught,missed
+amount,225.416,59.186
+amount_ratio,4.406,1.242
+distance_from_home_km,85.223,32.277
+txn_count_24h,3.34,1.429
+is_night,0.521,0.054
+is_international,0.266,0.054
+device_changed,0.245,0.089
+is_new_merchant,0.638,0.214
+new_card,0.415,0.036
