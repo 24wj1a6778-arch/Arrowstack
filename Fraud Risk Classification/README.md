@@ -5,9 +5,9 @@ precision/recall trade-offs and explainability**. It covers every handbook requi
 train/validation/test discipline, baseline, metric comparison, error analysis, reproducible
 pipeline and model card.
 
-> **Data note:** transactions are *simulated* (`src/generate_data.py`) because real fraud data is
+> **Data note:** transactions are *simulated*  because real fraud data is
 > confidential and public fraud sets use anonymised features that cannot be explained. About 1.25%
-> of transactions are fraud, and 25% of that fraud is deliberately "stealth" (looks normal).
+> of transactions are fraud, and 25% of that fraud is deliberately "stealth".
 
 ## Project structure
 
