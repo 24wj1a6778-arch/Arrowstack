@@ -1,0 +1,6 @@
+product_id,on_hand,on_order,forecast_14d,order_up_to_level,order_quantity,status
+SKU-001,1126,0,2958.6,3093.9,1968,ok
+SKU-002,443,0,1004.2,1183.1,741,ok
+SKU-003,267,0,762.6,821.7,555,ok
+SKU-004,124,0,283.6,322.8,199,ok
+SKU-005,14,0,31.7,39.9,26,ok

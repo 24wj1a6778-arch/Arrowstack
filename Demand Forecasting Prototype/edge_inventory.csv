@@ -1,0 +1,4 @@
+product_id,on_hand,on_order
+SKU-001,500,200
+SKU-999,10,0
+SKU-003,-5,0

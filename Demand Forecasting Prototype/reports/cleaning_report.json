@@ -1,0 +1,8 @@
+{
+  "raw_rows": 6365,
+  "duplicates_removed": 6,
+  "negative_values_clipped_to_0": 5,
+  "missing_days_filled_by_interpolation": 26,
+  "products": 5,
+  "days_per_product": 1277
+}

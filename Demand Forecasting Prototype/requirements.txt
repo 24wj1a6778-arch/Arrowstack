@@ -1,0 +1,7 @@
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+matplotlib>=3.7
+# optional alternatives (not required to run this project)
+# statsmodels>=0.14
+# prophet>=1.1
