@@ -1,4 +1,4 @@
-# Demand Forecasting Prototype - Arrowstack ML Internship, Project 3 (Capstone)
+# Demand Forecasting Prototype 
 
 A time-series workflow that forecasts daily product demand 14 days ahead and **turns the forecast into
 weekly order quantities** for an inventory planner. It covers every handbook requirement: time-ordered
