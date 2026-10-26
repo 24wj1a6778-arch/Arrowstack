@@ -1,4 +1,4 @@
-# Customer Churn Prediction - Arrowstack ML Internship, Project 1
+# Customer Churn Prediction 
 
 Predict which telecom customers are likely to churn so a retention team can decide who gets an offer.
 Covers every handbook requirement: train/validation/test discipline, baseline model, metric comparison,
