@@ -1,4 +1,4 @@
-# Fraud Risk Classification - Arrowstack ML Internship, Project 2
+# Fraud Risk Classification 
 
 A simulated card-transaction fraud classifier with **imbalance handling, threshold analysis,
 precision/recall trade-offs and explainability**. It covers every handbook requirement:
